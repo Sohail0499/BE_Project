@@ -1,0 +1,14 @@
+Dataset link : <link>
+Trained models link : <link>
+
+Download model weights from the above link 
+trained from age_gender_train.ipynb
+
+python -m venv venv_name
+for windows : venv_name\Scripts\activate
+for ubuntu : source venv_name/bin/activate
+
+pip install -r venv-sohail.txt
+
+python age_gender_predict.py 
+python age_gender_predict_camera.py 
