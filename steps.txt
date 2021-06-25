@@ -1,5 +1,4 @@
-Dataset link : <link>
-Trained models link : <link>
+Dataset & Trained models link : https://drive.google.com/drive/folders/1xQxD8D9PyToHn4H46CI9tbKq8-PhGaMU?usp=sharing
 
 Download model weights from the above link 
 trained from age_gender_train.ipynb
